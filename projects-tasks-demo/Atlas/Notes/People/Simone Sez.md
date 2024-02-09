@@ -48,7 +48,7 @@ in:
 ## Meeting Log
 ```dataview
 TABLE WITHOUT ID meeting_date as Date, file.link as "Topic"
-FROM "Calendar/meetings" where contains(attendees, this.file.link)
+FROM "Calendar/Meetings" where contains(attendees, this.file.link)
 SORT file.cday DESC
 ```
 

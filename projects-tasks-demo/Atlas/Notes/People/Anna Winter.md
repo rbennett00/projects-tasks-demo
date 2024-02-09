@@ -23,12 +23,13 @@ github-id:
 city: 
 country: 
 type: person
-peopleDomain:
-  - work
-  - IT
-template_version: "1.1"
 in:
   - "[[People]]"
+peopleDomain:
+  - work
+  - friends
+  - marketing
+template_version: "1.1"
 ---
 > [!user] Bio
 > 1. `what's their story?` 
@@ -48,13 +49,13 @@ in:
 ## Meeting Log
 ```dataview
 TABLE WITHOUT ID meeting_date as Date, file.link as "Topic"
-FROM "Calendar/meetings" where contains(attendees, this.file.link)
+FROM "Calendar/Meetings" where contains(attendees, this.file.link)
 SORT file.cday DESC
 ```
 
 ## Related Projects
 ```dataview
 TABLE WITHOUT ID file.link as Project
-FROM "Efforts" where contains(stakeholders, this.file.link]) or contains(project_team, this.file.link)
+FROM "Efforts" where contains(stakeholders, this.file.link) or contains(project_team, this.file.link)
 SORT file.cday DESC
 ```

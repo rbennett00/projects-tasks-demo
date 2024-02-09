@@ -23,13 +23,12 @@ github-id:
 city: 
 country: 
 type: person
-in:
-  - "[[People]]"
 peopleDomain:
   - work
-  - friends
-  - marketing
+  - IT
 template_version: "1.1"
+in:
+  - "[[People]]"
 ---
 > [!user] Bio
 > 1. `what's their story?` 
@@ -49,7 +48,7 @@ template_version: "1.1"
 ## Meeting Log
 ```dataview
 TABLE WITHOUT ID meeting_date as Date, file.link as "Topic"
-FROM "Calendar/meetings" where contains(attendees, this.file.link)
+FROM "Calendar/Meetings" where contains(attendees, this.file.link)
 SORT file.cday DESC
 ```
 

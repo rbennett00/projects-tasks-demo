@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"36d8c6ac86f288c3","type":"file","file":"Atlas/Maps/Areas.md","x":-660,"y":-260,"width":480,"height":340},
+		{"id":"be1b60c5fa25fee7","type":"file","file":"Atlas/Maps/Efforts.md","x":-120,"y":-260,"width":727,"height":312},
+		{"id":"048ea6d4b02a434b","type":"file","file":"Efforts/Launch new website/Launch new website.md","x":-380,"y":200,"width":780,"height":780},
+		{"id":"c584f94defd29ed6","type":"file","file":"Calendar/Meetings/2024-02-09 Web launch kickoff meeting.md","x":560,"y":600,"width":674,"height":425},
+		{"id":"e1843845f2b84ae8","x":-21,"y":1080,"width":801,"height":920,"type":"file","file":"Atlas/Notes/People/Bill Smith.md"},
+		{"id":"75cb194eff77b2ba","x":-640,"y":200,"width":250,"height":60,"color":"2","type":"text","text":"Efforts"},
+		{"id":"40b0155747004562","type":"text","text":"Atlas / Maps","x":-940,"y":-260,"width":250,"height":60,"color":"4"},
+		{"id":"14207ab7306a2531","type":"text","text":"Calendar \\ Meetings","x":980,"y":520,"width":250,"height":60,"color":"5"},
+		{"id":"aac18c7993f58481","type":"text","text":"Atlas \\ Notes \\ People","x":-280,"y":1080,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"fb6d93ba5456bef3","fromNode":"048ea6d4b02a434b","fromSide":"bottom","toNode":"e1843845f2b84ae8","toSide":"top","label":"project_team"},
+		{"id":"d03b1046dd595b3e","fromNode":"c584f94defd29ed6","fromSide":"bottom","toNode":"e1843845f2b84ae8","toSide":"top","label":"attendees"},
+		{"id":"0cad63cad479f8f0","fromNode":"c584f94defd29ed6","fromSide":"left","toNode":"048ea6d4b02a434b","toSide":"right","label":"project"},
+		{"id":"ac7a5bf064a46bf8","fromNode":"048ea6d4b02a434b","fromSide":"top","toNode":"36d8c6ac86f288c3","toSide":"bottom","label":"area"},
+		{"id":"339fe3dbc1f998b0","fromNode":"048ea6d4b02a434b","fromSide":"top","toNode":"be1b60c5fa25fee7","toSide":"bottom"}
+	]
+}

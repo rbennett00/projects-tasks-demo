@@ -5,6 +5,7 @@ attendees:
   - "[[John Doe]]"
   - "[[Simone Sez]]"
   - "[[Anna Winter]]"
+  - "[[Bill Smith]]"
 project: "[[Launch new website]]"
 tags: 
 type: meeting

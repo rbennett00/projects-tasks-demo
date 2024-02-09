@@ -8,39 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bab256cd4848d1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Efforts.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0bdae9833240843c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efforts/Launch new website/Launch new website.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d6683c54ca5725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Maps/Areas.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Maps/Efforts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Maps/Efforts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas/Maps/Efforts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,44 +139,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bab256cd4848d1ef",
+  "active": "0bdae9833240843c",
   "lastOpenFiles": [
-    "Atlas/Maps/Areas.md",
-    "Atlas/Maps/Efforts.md",
-    "Welcome.md",
+    "projects-tasks-demo/templates/Task View.md",
+    "projects-tasks-demo/templates/script - assign to area.md",
+    "projects-tasks-demo/templates/script - assign to project.md",
+    "projects-tasks-demo/templates/person.md",
+    "projects-tasks-demo/templates/project.md",
+    "projects-tasks-demo/templates/meeting.md",
+    "projects-tasks-demo/templates/Daily Agenda.md",
+    "projects-tasks-demo/templates/Create new project.md",
+    "projects-tasks-demo/templates/Create new meeting note.md",
+    "projects-tasks-demo/templates",
     "Efforts/Launch new website/Launch new website.md",
-    "Efforts/Some new project/Some new project.md",
-    "templates/Task View.md",
-    "Taxonomy diagram.canvas",
-    "Atlas/Maps/People.md",
-    "Atlas/Maps/Meetings.md",
-    "Atlas/Maps/Entities.md",
-    "Atlas/Maps/Collections.md",
-    "Calendar/Meetings/2024-02-09 Meeting on new project.md",
-    "Calendar/Meetings/2024-02-09 Web launch kickoff meeting.md",
-    "Atlas/Notes/People/Simone Sez.md",
-    "Atlas/Notes/People/John Doe.md",
-    "Atlas/Notes/People/Bill Smith.md",
-    "Atlas/Notes/People/Anna Winter.md",
-    "templates/meeting.md",
-    "projects-tasks-demo.zip",
-    "Welcome.zip",
-    "Atlas/Notes",
-    "templates/person.md",
-    "templates/project.md",
-    "templates/script - assign to project.md",
-    "Calendar/daily/2024-02-09.md",
-    "Efforts/Some new project",
-    "+",
-    "Calendar/meetings/2024-02-09 Test4.md",
-    "Anna Winter.md",
-    "Efforts/Launch new website",
-    "Bill Smith.md",
-    "people/person.md",
-    "Atlas/Notes/People",
-    "Calendar/meetings/2024-02-08 Test 2.md",
-    "Efforts/Test",
-    "projects/Test",
-    "projects"
+    "projects-tasks-demo/Efforts/Some new project/Some new project.md",
+    "projects-tasks-demo/Efforts/Launch new website/Launch new website.md",
+    "projects-tasks-demo/Efforts/Some new project",
+    "projects-tasks-demo/Efforts/Launch new website",
+    "projects-tasks-demo/Efforts",
+    "projects-tasks-demo/Calendar/daily/2024-02-09.md",
+    "projects-tasks-demo/Calendar/Meetings/2024-02-09 Meeting on new project.md",
+    "projects-tasks-demo/Calendar/Meetings/2024-02-09 Web launch kickoff meeting.md",
+    "projects-tasks-demo/Calendar/daily",
+    "projects-tasks-demo/Calendar/Meetings",
+    "projects-tasks-demo/Calendar",
+    "Atlas/Maps/Areas.md",
+    "projects-tasks-demo/Atlas/Notes/People/Simone Sez.md",
+    "projects-tasks-demo/Atlas/Notes/People/Bill Smith.md",
+    "projects-tasks-demo/Atlas/Notes/People/John Doe.md",
+    "projects-tasks-demo/Atlas/Notes/People/Anna Winter.md",
+    "projects-tasks-demo/Atlas/Notes/People",
+    "projects-tasks-demo/Atlas/Maps/Meetings.md",
+    "projects-tasks-demo/Atlas/Maps/People.md",
+    "projects-tasks-demo/Atlas/Maps/Entities.md",
+    "projects-tasks-demo/Atlas/Maps/Efforts.md",
+    "projects-tasks-demo/Atlas/Maps/Areas.md",
+    "projects-tasks-demo/Atlas/Notes",
+    "projects-tasks-demo/Atlas/Maps",
+    "projects-tasks-demo/Example with notes.canvas",
+    "projects-tasks-demo/Taxonomy diagram.canvas",
+    "projects-tasks-demo/Welcome.md",
+    "Example with notes.canvas",
+    "Untitled.canvas",
+    "Taxonomy diagram.canvas"
   ]
 }
