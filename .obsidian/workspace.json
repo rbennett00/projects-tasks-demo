@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "bbf439edc510f0f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "097b83e0d42f97bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab256cd4848d1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Efforts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0bdae9833240843c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/Launch new website/Launch new website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74d6683c54ca5725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Areas.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a225630562faf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e519b3b7bb9b56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d01b14fbbe90279",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f80e65df230837ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "991ea73c9ebc80db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ead0d3cb260d2b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "229eb2ecdc71057b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f04d1c3c78b5dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Maps/Efforts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39e2df2cd43f758a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Maps/Efforts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f62ca327af9c1732",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "628f2c023348c379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlas/Maps/Efforts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bab256cd4848d1ef",
+  "lastOpenFiles": [
+    "Atlas/Maps/Areas.md",
+    "Atlas/Maps/Efforts.md",
+    "Welcome.md",
+    "Efforts/Launch new website/Launch new website.md",
+    "Efforts/Some new project/Some new project.md",
+    "templates/Task View.md",
+    "Taxonomy diagram.canvas",
+    "Atlas/Maps/People.md",
+    "Atlas/Maps/Meetings.md",
+    "Atlas/Maps/Entities.md",
+    "Atlas/Maps/Collections.md",
+    "Calendar/Meetings/2024-02-09 Meeting on new project.md",
+    "Calendar/Meetings/2024-02-09 Web launch kickoff meeting.md",
+    "Atlas/Notes/People/Simone Sez.md",
+    "Atlas/Notes/People/John Doe.md",
+    "Atlas/Notes/People/Bill Smith.md",
+    "Atlas/Notes/People/Anna Winter.md",
+    "templates/meeting.md",
+    "projects-tasks-demo.zip",
+    "Welcome.zip",
+    "Atlas/Notes",
+    "templates/person.md",
+    "templates/project.md",
+    "templates/script - assign to project.md",
+    "Calendar/daily/2024-02-09.md",
+    "Efforts/Some new project",
+    "+",
+    "Calendar/meetings/2024-02-09 Test4.md",
+    "Anna Winter.md",
+    "Efforts/Launch new website",
+    "Bill Smith.md",
+    "people/person.md",
+    "Atlas/Notes/People",
+    "Calendar/meetings/2024-02-08 Test 2.md",
+    "Efforts/Test",
+    "projects/Test",
+    "projects"
+  ]
+}

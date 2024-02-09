@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "stakeholders": "multitext",
+    "project_team": "multitext",
+    "attendees": "multitext",
+    "peopleDomain": "multitext"
+  }
+}

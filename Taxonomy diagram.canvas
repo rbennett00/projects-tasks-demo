@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1985854eb0175ce9","type":"text","text":"People","x":130,"y":-90,"width":250,"height":60,"color":"6"},
+		{"id":"59b7195420369fcf","type":"text","text":"Efforts","x":-460,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"85f023f9ac84848d","type":"text","text":"Meetings","x":-100,"y":160,"width":250,"height":50,"color":"2"},
+		{"id":"d3bb3d0f65d2594e","type":"text","text":"Areas","x":-460,"y":-280,"width":250,"height":60,"color":"4"},
+		{"id":"acd04c7900ec194b","x":-760,"y":140,"width":250,"height":120,"type":"text","text":"arrow labels represent the property names that connect the different object types"}
+	],
+	"edges":[
+		{"id":"edda307ef0268d68","fromNode":"59b7195420369fcf","fromSide":"top","toNode":"d3bb3d0f65d2594e","toSide":"bottom","label":"area"},
+		{"id":"4304f7971d0286d2","fromNode":"59b7195420369fcf","fromSide":"right","toNode":"1985854eb0175ce9","toSide":"left","label":"stakeholders"},
+		{"id":"9f6e454b3bd8c100","fromNode":"59b7195420369fcf","fromSide":"right","toNode":"1985854eb0175ce9","toSide":"bottom","label":"project_team"},
+		{"id":"ad9d04907c3395fb","fromNode":"85f023f9ac84848d","fromSide":"right","toNode":"1985854eb0175ce9","toSide":"bottom","label":"attendees"},
+		{"id":"e6109a36063d5a5a","fromNode":"85f023f9ac84848d","fromSide":"left","toNode":"59b7195420369fcf","toSide":"bottom","label":"project"}
+	]
+}

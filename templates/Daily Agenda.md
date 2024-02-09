@@ -1,0 +1,60 @@
+
+# 📥 Inbox
+
+```dataview
+list without ID file.link
+from "+"
+where status = "unread"
+```
+
+---
+# 📔 Notes
+
+
+---
+# ✔️ Tasks
+> [!multi-column]
+> 
+>> [!danger]+ Overdue
+>> ```tasks
+>> not done
+>> filter by function task.due.moment?.isBefore(moment('{{query.file.filenameWithoutExtension}}'),'day')  || false
+>> ```
+>
+>> [!todo]+ Due today
+>> ```tasks
+>> not done
+>> filter by function task.due.moment?.isSame(moment('{{query.file.filenameWithoutExtension}}'),'day')  || false
+>> ```
+
+> [!multi-column]
+> 
+>> [!question]+ Waiting
+>> ```tasks
+>> filter by function task.status.name === 'waiting'
+>> ```
+>
+>> [!success]+ Done today
+>> ```tasks
+>> filter by function task.done.moment?.isSame(moment('{{query.file.filenameWithoutExtension}}'),'day')  || false
+>> ```
+---
+> [!multi-column]
+> 
+>> [!note]+ Readwise Inbox
+>> ```dataview
+>> table without ID file.link as Source, tag as Type
+>> FROM "Readwise" AND -"Readwise Syncs.md"
+>> where (dateformat(date(file.mday), "yyyy'-'MM'-'dd") = this.file.name) AND (file.name != "Readwise Syncs")
+>> ```
+>
+>>[!warning]+ Notes Updated Today
+>>```dataview
+>> table without id
+>> file.link as Note,
+>> file.folder as Folder,
+>> file.mtime as "Last Modified"
+>> FROM -"daily" AND -"Readwise"
+>> where (dateformat(date(file.mday), "yyyy'-'MM'-'dd") = this.file.name)
+>> sort file.mtime desc
+>> ```
