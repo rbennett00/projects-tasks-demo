@@ -5,7 +5,7 @@ tags:
   - "#map/view"
 created: 2023-11-21
 ---
-This note collects all notes where the `in` property says `Meeting`.
+This note collects all notes where the `in` property says `Meetings`.
 
 > [!calendar]+ # Meetings
 > ```dataview

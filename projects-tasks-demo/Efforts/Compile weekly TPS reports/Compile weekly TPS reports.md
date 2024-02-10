@@ -1,21 +1,18 @@
 ---
-up:
-  - "[[Efforts]]"
-project: Some new project
-created: 2024-02-09
-start_date: 2024-02-09
-project_status: on
-area: Home
+up: "[[Efforts]]"
+project: Compile weekly TPS reports
+created: 2024-02-10
+start_date: 2024-02-10
+project_status: ♻️ Ongoing
+area: Sales
 dependencies: 
 product: 
-stakeholders: 
-project_team: 
+stakeholders:
+project_team:
 tags: 
-rank: 
+rank:
 type: project
 template_version: "1.1"
-in:
-  - "[[Efforts]]"
 ---
 # Project Goals
 - x
@@ -29,7 +26,7 @@ in:
 >> [!todo]+ Tasks
 >> ``` tasks
 >> not done
->> description includes 📋[[Some new project]]
+>> description includes 📋[[Compile weekly TPS reports]]
 >> sort by due
 >> group by priority
 >> short mode
@@ -39,7 +36,7 @@ in:
 >>  ``` dataview
 >>  list
 >>  from "Calendar/Meetings"
->>  where contains(project, [[Some new project]])
+>>  where contains(project, this.file.link)
 >>  sort meeting_date desc
 >>  ```
 >

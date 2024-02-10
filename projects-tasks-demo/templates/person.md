@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
 first-name: 
 last-name: 
 aliases: 
@@ -7,7 +7,7 @@ person-slug:
 job-title: 
 organization-slug: 
 product-slug: 
-reports-to:
+reports-to: 
 web: 
 email: 
 mobile: 
@@ -25,6 +25,7 @@ country:
 type: person
 peopleDomain: 
 template_version: "1.1"
+member_of:
 ---
 > [!user] Bio
 > 1. `what's their story?` 

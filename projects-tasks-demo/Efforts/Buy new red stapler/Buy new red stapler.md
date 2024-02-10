@@ -1,25 +1,18 @@
 ---
-up:
-  - "[[Efforts]]"
-project: Launch new website
-created: 2024-02-09
-start_date: 2024-02-09
-project_status: 🔥 On
-area: Marketing
+up: "[[Efforts]]"
+project: Buy new red stapler
+created: 2024-02-10
+start_date: 2024-02-10
+project_status: 〰️ Simmering
+area: Wellbeing
 dependencies: 
 product: 
 stakeholders:
-  - "[[Bill Smith]]"
 project_team:
-  - "[[Anna Winter]]"
-  - "[[John Doe]]"
-  - "[[Simone Sez]]"
 tags: 
-rank: 2
+rank:
 type: project
 template_version: "1.1"
-in:
-  - "[[Efforts]]"
 ---
 # Project Goals
 - x
@@ -27,13 +20,14 @@ in:
 - z
 # Notes
 
+
 ---
 
 > [!multi-column]
 >> [!todo]+ Tasks
 >> ``` tasks
 >> not done
->> description includes 📋[[Launch new website]]
+>> description includes 📋[[Buy new red stapler]]
 >> sort by due
 >> group by priority
 >> short mode
@@ -52,6 +46,4 @@ in:
 >>  -
 
 ---
-
-
 Back to `= this.up`

@@ -1,0 +1,16 @@
+[data-type="markdown"] .metadata-properties {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Both columns have an equal share of the available space */
+  gap: 3px 0px;
+}
+
+[data-type="markdown"] .metadata-properties .metadata-property-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+[data-type="markdown"] .metadata-properties .metadata-property-value {
+  align-items: center;
+  display: flex;
+}

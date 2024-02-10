@@ -6,18 +6,13 @@
       {
         "id": "097b83e0d42f97bb",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "74d6683c54ca5725",
+            "id": "0bdae9833240843c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,21 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae51ccc81eb1a0cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Task View.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -137,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,47 +139,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74d6683c54ca5725",
+  "active": "0bdae9833240843c",
   "lastOpenFiles": [
-    "Atlas/Notes/People/Anna Winter.md",
-    "Atlas/Notes/People/Simone Sez.md",
-    "Welcome.md",
-    "templates/Task View.md",
-    "templates/meeting.md",
-    "Atlas/Maps/People.md",
-    "Behind-the-scenes details.md",
-    "templates/script - assign to project.md",
-    "templates/script - assign to area.md",
-    "templates/Create new meeting note.md",
-    "Efforts/Buy new red stapler/Buy new red stapler.md",
-    "templates/project.md",
-    "templates/Create new project.md",
-    "Calendar/daily/2024-02-09.md",
-    "Example with notes.canvas",
-    "Atlas/Maps/Entities.md",
-    "Atlas/Maps/Meetings.md",
-    "templates/person.md",
-    "Atlas/Maps/Efforts.md",
-    "Atlas/Maps/Areas.md",
-    "Efforts/Buy new red stapler",
-    "Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
-    "Efforts/Compile weekly TPS reports",
+    "projects-tasks-demo/Behind-the-scenes details.md",
+    "projects-tasks-demo/Efforts/Buy new red stapler/Buy new red stapler.md",
+    "projects-tasks-demo/Efforts/Buy new red stapler",
+    "projects-tasks-demo/Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
+    "projects-tasks-demo/Efforts/Compile weekly TPS reports",
+    "projects-tasks-demo/Atlas/Maps/Areas.md",
+    "projects-tasks-demo/Atlas/Maps/Areas (plain dataview).md",
+    "projects-tasks-demo/Atlas/Maps/Areas (using callouts).md",
+    "projects-tasks-demo/templates/Task View.md",
+    "projects-tasks-demo/templates/script - assign to area.md",
+    "projects-tasks-demo/templates/script - assign to project.md",
+    "projects-tasks-demo/templates/person.md",
+    "projects-tasks-demo/templates/project.md",
+    "projects-tasks-demo/templates/meeting.md",
+    "projects-tasks-demo/templates/Daily Agenda.md",
+    "projects-tasks-demo/templates/Create new project.md",
+    "projects-tasks-demo/templates/Create new meeting note.md",
+    "projects-tasks-demo/templates",
     "Efforts/Launch new website/Launch new website.md",
-    "Efforts/Some new project/Some new project.md",
-    "Atlas/Maps/Areas (plain dataview).md",
-    "projects-tasks-demo/Welcome.md",
-    "projects-tasks-demo/Taxonomy diagram.canvas",
+    "projects-tasks-demo/Efforts/Some new project/Some new project.md",
+    "projects-tasks-demo/Efforts/Launch new website/Launch new website.md",
+    "projects-tasks-demo/Efforts/Some new project",
+    "projects-tasks-demo/Efforts/Launch new website",
+    "projects-tasks-demo/Efforts",
+    "projects-tasks-demo/Calendar/daily/2024-02-09.md",
+    "projects-tasks-demo/Calendar/Meetings/2024-02-09 Meeting on new project.md",
+    "projects-tasks-demo/Calendar/Meetings/2024-02-09 Web launch kickoff meeting.md",
+    "projects-tasks-demo/Calendar/daily",
+    "projects-tasks-demo/Calendar/Meetings",
+    "projects-tasks-demo/Calendar",
+    "Atlas/Maps/Areas.md",
+    "projects-tasks-demo/Atlas/Notes/People/Simone Sez.md",
+    "projects-tasks-demo/Atlas/Notes/People/Bill Smith.md",
+    "projects-tasks-demo/Atlas/Notes/People/John Doe.md",
+    "projects-tasks-demo/Atlas/Notes/People/Anna Winter.md",
+    "projects-tasks-demo/Atlas/Notes/People",
     "projects-tasks-demo/Example with notes.canvas",
-    "projects-tasks-demo",
-    "New folder",
-    "Atlas/Notes/People/John Doe.md",
-    "Atlas/Notes/People/Bill Smith.md",
-    "Taxonomy diagram.canvas",
-    "projects-tasks-demo.zip",
-    "Welcome.zip",
-    "Atlas/Notes",
-    "Efforts/Some new project",
-    "+",
-    "Efforts/Launch new website"
+    "projects-tasks-demo/Taxonomy diagram.canvas",
+    "Example with notes.canvas",
+    "Untitled.canvas",
+    "Taxonomy diagram.canvas"
   ]
 }
