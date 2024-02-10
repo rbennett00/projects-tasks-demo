@@ -3,7 +3,9 @@
   "enabledCssSnippets": [
     "MCL Multi Column",
     "MCL Wide Views",
-    "nick-milo-pro-callouts"
+    "nick-milo-pro-callouts",
+    "properties columns"
   ],
-  "cssTheme": "Prism"
+  "cssTheme": "Prism",
+  "theme": "obsidian"
 }

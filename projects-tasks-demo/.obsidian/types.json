@@ -6,6 +6,7 @@
     "stakeholders": "multitext",
     "project_team": "multitext",
     "attendees": "multitext",
-    "peopleDomain": "multitext"
+    "peopleDomain": "multitext",
+    "member_of": "multitext"
   }
 }
