@@ -13,7 +13,7 @@ if (tp.file.selection() === '') {
 topicName = topicName.replaceAll('/', '-');  
 
 const templatePath = tp.file.find_tfile("meeting")  ;
-const folderPath = "Calendar/meetings";
+const folderPath = "Calendar/Meetings";
 let folder = app.vault.getAbstractFileByPath(folderPath);  
   
 if (folder === null) {  

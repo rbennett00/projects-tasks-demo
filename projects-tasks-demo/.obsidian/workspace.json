@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "097b83e0d42f97bb",
+        "id": "a433571b828beecf",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "74d6683c54ca5725",
+            "id": "52957088e9611a60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,47 +151,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74d6683c54ca5725",
+  "active": "52957088e9611a60",
   "lastOpenFiles": [
-    "Atlas/Notes/People/Anna Winter.md",
-    "Atlas/Notes/People/Simone Sez.md",
+    "templates/Create new meeting note.md",
+    "Atlas/Maps/Areas.md",
     "Welcome.md",
+    "Areas/Notes/People/fff-fff.md",
+    "Scrap test page.md",
+    "Areas/Notes/People/eee-eee.md",
+    "Areas/Notes/People/ddd-ddd.md",
+    "people/yyy-yyy.md",
+    "people",
+    "people/xxx-xxx.md",
+    "Areas/Notes/People/Grace-Bennett.md",
+    "Areas/Notes/People/Spencer-Bennett.md",
+    "Areas/Notes/People/Rob-Bennett.md",
+    "Areas/Notes/People",
+    "Areas/Notes",
+    "Areas",
+    "templates/create new person note.md",
+    "templates/person.md",
+    "Calendar/Meetings/2024-02-11 test2.md",
+    "Calendar/Meetings/2024-02-11 Test meeting.md",
+    "Test.md",
     "templates/Task View.md",
-    "templates/meeting.md",
+    "Atlas/Maps/Efforts.md",
+    "Atlas/Notes/People/Anna Winter.md",
     "Atlas/Maps/People.md",
+    "Atlas/Notes/People/Simone Sez.md",
+    "templates/meeting.md",
     "Behind-the-scenes details.md",
     "templates/script - assign to project.md",
     "templates/script - assign to area.md",
-    "templates/Create new meeting note.md",
-    "Efforts/Buy new red stapler/Buy new red stapler.md",
-    "templates/project.md",
-    "templates/Create new project.md",
-    "Calendar/daily/2024-02-09.md",
     "Example with notes.canvas",
-    "Atlas/Maps/Entities.md",
-    "Atlas/Maps/Meetings.md",
-    "templates/person.md",
-    "Atlas/Maps/Efforts.md",
-    "Atlas/Maps/Areas.md",
     "Efforts/Buy new red stapler",
-    "Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
     "Efforts/Compile weekly TPS reports",
-    "Efforts/Launch new website/Launch new website.md",
-    "Efforts/Some new project/Some new project.md",
-    "Atlas/Maps/Areas (plain dataview).md",
-    "projects-tasks-demo/Welcome.md",
     "projects-tasks-demo/Taxonomy diagram.canvas",
     "projects-tasks-demo/Example with notes.canvas",
     "projects-tasks-demo",
     "New folder",
-    "Atlas/Notes/People/John Doe.md",
-    "Atlas/Notes/People/Bill Smith.md",
     "Taxonomy diagram.canvas",
     "projects-tasks-demo.zip",
-    "Welcome.zip",
-    "Atlas/Notes",
-    "Efforts/Some new project",
-    "+",
-    "Efforts/Launch new website"
+    "Welcome.zip"
   ]
 }
