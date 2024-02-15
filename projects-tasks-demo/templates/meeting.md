@@ -3,9 +3,8 @@ const projects = (await app.plugins.getPlugin("dataview").api.tryQuery(`
 TABLE WITHOUT ID
 project
 FROM "Efforts"
-WHERE project 
-GROUP BY project 
-SORT length(rows.file.link) DESC
+WHERE type = "project" AND project_status != "💤 Sleeping"
+SORT project ASC
 `)).values;
 projects.push("! new project");
 let selectedProject = await tp.system.suggester(item => item, projects.sort(), true, "Select a project or create a new one...");

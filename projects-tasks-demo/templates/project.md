@@ -22,7 +22,7 @@ up: "[[Efforts]]"
 project: <% project %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 start_date: <% tp.date.now("YYYY-MM-DD") %>
-project_status: on
+project_status: 🔥 On
 area: <% selectedArea %>
 dependencies: 
 product: 

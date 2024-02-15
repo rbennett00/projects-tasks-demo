@@ -44,5 +44,5 @@ This page is pretty much identical to Nick's Efforts map, except it uses the `pr
 > ```
 
 ---
-
+[[Get some new flair]]
 Back to `= this.up`
