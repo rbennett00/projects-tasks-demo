@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52957088e9611a60",
+            "id": "37a90a77754d1220",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/project.md"
+              }
             }
           }
         ],
@@ -151,11 +159,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52957088e9611a60",
+  "active": "37a90a77754d1220",
   "lastOpenFiles": [
-    "templates/Create new meeting note.md",
-    "Atlas/Maps/Areas.md",
+    "Efforts/Launch new website/Launch new website.md",
+    "Efforts/Get some new flair/Get some new flair.md",
+    "Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
+    "Efforts/Buy new red stapler/Buy new red stapler.md",
+    "templates/project.md",
     "Welcome.md",
+    "templates/script - assign to project.md",
+    "templates/meeting.md",
+    "Calendar/Meetings/2024-02-15 sss.md",
+    "templates/Create new meeting note.md",
+    "Atlas/Maps/Efforts.md",
+    "Efforts/Get some new flair",
+    "Calendar/daily/2024-02-11.md",
+    "DV Test.md",
+    "Test1.md",
+    "Test3.md",
+    "Test2.md",
+    "Atlas/Maps/Areas.md",
     "Areas/Notes/People/fff-fff.md",
     "Scrap test page.md",
     "Areas/Notes/People/eee-eee.md",
@@ -169,20 +192,6 @@
     "Areas/Notes/People",
     "Areas/Notes",
     "Areas",
-    "templates/create new person note.md",
-    "templates/person.md",
-    "Calendar/Meetings/2024-02-11 test2.md",
-    "Calendar/Meetings/2024-02-11 Test meeting.md",
-    "Test.md",
-    "templates/Task View.md",
-    "Atlas/Maps/Efforts.md",
-    "Atlas/Notes/People/Anna Winter.md",
-    "Atlas/Maps/People.md",
-    "Atlas/Notes/People/Simone Sez.md",
-    "templates/meeting.md",
-    "Behind-the-scenes details.md",
-    "templates/script - assign to project.md",
-    "templates/script - assign to area.md",
     "Example with notes.canvas",
     "Efforts/Buy new red stapler",
     "Efforts/Compile weekly TPS reports",
@@ -191,7 +200,6 @@
     "projects-tasks-demo",
     "New folder",
     "Taxonomy diagram.canvas",
-    "projects-tasks-demo.zip",
-    "Welcome.zip"
+    "projects-tasks-demo.zip"
   ]
 }
