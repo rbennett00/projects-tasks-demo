@@ -10,7 +10,7 @@ product:
 stakeholders:
 project_team:
 tags: 
-rank:
+rank: 2
 type: project
 template_version: "1.1"
 ---

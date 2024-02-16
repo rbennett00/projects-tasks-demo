@@ -15,7 +15,7 @@ project_team:
   - "[[John Doe]]"
   - "[[Simone Sez]]"
 tags: 
-rank: 2
+rank: 4
 type: project
 template_version: "1.1"
 in:
