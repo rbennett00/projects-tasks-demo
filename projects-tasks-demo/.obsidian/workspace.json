@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Atlas/Maps/Areas.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,20 +161,20 @@
   },
   "active": "37a90a77754d1220",
   "lastOpenFiles": [
-    "Efforts/Get some new flair/Get some new flair.md",
-    "Efforts/Get some new flair",
     "Atlas/Maps/Areas2.md",
-    "Atlas/Maps/Areas.md",
-    "templates/project.md",
     "Efforts/Launch new website/Launch new website.md",
     "Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
+    "Efforts/Get some new flair/Get some new flair.md",
     "Efforts/Buy new red stapler/Buy new red stapler.md",
+    "Atlas/Maps/Areas.md",
+    "Atlas/Maps/Efforts.md",
+    "Efforts/Get some new flair",
+    "templates/project.md",
     "Welcome.md",
     "templates/script - assign to project.md",
     "templates/meeting.md",
     "Calendar/Meetings/2024-02-15 sss.md",
     "templates/Create new meeting note.md",
-    "Atlas/Maps/Efforts.md",
     "Calendar/daily/2024-02-11.md",
     "DV Test.md",
     "Test1.md",
