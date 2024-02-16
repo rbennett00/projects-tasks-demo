@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/project.md",
+                "file": "Atlas/Maps/Areas2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/project.md",
+                "file": "Atlas/Maps/Areas2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/project.md",
+                "file": "Atlas/Maps/Areas2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/project.md"
+                "file": "Atlas/Maps/Areas2.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "37a90a77754d1220",
   "lastOpenFiles": [
+    "Atlas/Maps/Areas.md",
+    "Atlas/Maps/Areas2.md",
+    "templates/project.md",
     "Efforts/Launch new website/Launch new website.md",
     "Efforts/Get some new flair/Get some new flair.md",
     "Efforts/Compile weekly TPS reports/Compile weekly TPS reports.md",
     "Efforts/Buy new red stapler/Buy new red stapler.md",
-    "templates/project.md",
     "Welcome.md",
     "templates/script - assign to project.md",
     "templates/meeting.md",
@@ -178,7 +180,6 @@
     "Test1.md",
     "Test3.md",
     "Test2.md",
-    "Atlas/Maps/Areas.md",
     "Areas/Notes/People/fff-fff.md",
     "Scrap test page.md",
     "Areas/Notes/People/eee-eee.md",
@@ -188,7 +189,6 @@
     "people/xxx-xxx.md",
     "Areas/Notes/People/Grace-Bennett.md",
     "Areas/Notes/People/Spencer-Bennett.md",
-    "Areas/Notes/People/Rob-Bennett.md",
     "Areas/Notes/People",
     "Areas/Notes",
     "Areas",
